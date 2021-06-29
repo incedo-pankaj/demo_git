@@ -21,7 +21,7 @@
                                 <state key="normal" title="Button"/>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="folder.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="VfC-jN-jcF">
-                                <rect key="frame" x="87" y="539" width="240" height="125.5"/>
+                                <rect key="frame" x="87" y="484" width="240" height="125.5"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="VfC-jN-jcF" secondAttribute="height" multiplier="15:8" id="4Lm-kP-byk"/>
                                     <constraint firstAttribute="height" constant="128" id="Pl1-bQ-2QC"/>
@@ -32,7 +32,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="VfC-jN-jcF" firstAttribute="centerX" secondItem="jqy-iu-Dmr" secondAttribute="centerX" id="Blo-vb-BX9"/>
-                            <constraint firstItem="VfC-jN-jcF" firstAttribute="top" secondItem="jqy-iu-Dmr" secondAttribute="bottom" constant="75" id="Udn-rc-9E9"/>
+                            <constraint firstItem="VfC-jN-jcF" firstAttribute="top" secondItem="jqy-iu-Dmr" secondAttribute="bottom" constant="20" id="Udn-rc-9E9"/>
                             <constraint firstItem="jqy-iu-Dmr" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="ban-cR-yqP"/>
                             <constraint firstItem="jqy-iu-Dmr" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="cso-vx-5g4"/>
                         </constraints>
